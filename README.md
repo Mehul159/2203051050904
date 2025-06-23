@@ -9,5 +9,7 @@ Command to run : npm run dev:full
 signin to start shortening the url
 its necessary to put a value in custom field 
 
+in env , put your mongodb uri to make the database work
+
 
 
